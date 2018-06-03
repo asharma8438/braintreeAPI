@@ -4,8 +4,8 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container/VISA"/>
-	<classpathentry kind="lib" path="D:/Ashish/MyData/Library/braintree-java-2.80.0.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_91"/>
 	<classpathentry kind="lib" path="D:/Ashish/MyData/Library/TlsCheck.jar"/>
+	<classpathentry kind="lib" path="D:/Ashish/MyData/Library/braintree-java-2.81.0.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
